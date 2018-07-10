@@ -1,0 +1,7 @@
+F:\Storage\Documents\Visual Studio 2015\Projects\MusicTracker\MusicTracker\obj\Debug\MusicTracker.Properties.Resources.resources
+F:\Storage\Documents\Visual Studio 2015\Projects\MusicTracker\MusicTracker\obj\Debug\MusicTracker.csproj.GenerateResource.Cache
+F:\Storage\Documents\Visual Studio 2015\Projects\MusicTracker\MusicTracker\bin\Debug\MusicTracker.exe.config
+F:\Storage\Documents\Visual Studio 2015\Projects\MusicTracker\MusicTracker\bin\Debug\MusicTracker.exe
+F:\Storage\Documents\Visual Studio 2015\Projects\MusicTracker\MusicTracker\bin\Debug\MusicTracker.pdb
+F:\Storage\Documents\Visual Studio 2015\Projects\MusicTracker\MusicTracker\obj\Debug\MusicTracker.exe
+F:\Storage\Documents\Visual Studio 2015\Projects\MusicTracker\MusicTracker\obj\Debug\MusicTracker.pdb

@@ -1,0 +1,93 @@
+f:\storage\documents\visual studio 2015\Projects\MusicTracker\MusicTracker\bin\Debug\MusicTracker.exe.config
+f:\storage\documents\visual studio 2015\Projects\MusicTracker\MusicTracker\bin\Debug\MusicTracker.exe
+f:\storage\documents\visual studio 2015\Projects\MusicTracker\MusicTracker\bin\Debug\MusicTracker.pdb
+f:\storage\documents\visual studio 2015\Projects\MusicTracker\MusicTracker\obj\Debug\MusicTracker.csprojResolveAssemblyReference.cache
+f:\storage\documents\visual studio 2015\Projects\MusicTracker\MusicTracker\obj\Debug\MusicTracker.InterfaceForm.resources
+f:\storage\documents\visual studio 2015\Projects\MusicTracker\MusicTracker\obj\Debug\MusicTracker.Properties.Resources.resources
+f:\storage\documents\visual studio 2015\Projects\MusicTracker\MusicTracker\obj\Debug\MusicTracker.csproj.GenerateResource.Cache
+f:\storage\documents\visual studio 2015\Projects\MusicTracker\MusicTracker\obj\Debug\MusicTracker.exe
+f:\storage\documents\visual studio 2015\Projects\MusicTracker\MusicTracker\obj\Debug\MusicTracker.pdb
+C:\Users\Matt\Dropbox\FinalProject\MusicTracker\MusicTracker\bin\Debug\MusicTracker.exe.config
+C:\Users\Matt\Dropbox\FinalProject\MusicTracker\MusicTracker\obj\Debug\MusicTracker.exe
+C:\Users\Matt\Dropbox\FinalProject\MusicTracker\MusicTracker\obj\Debug\MusicTracker.pdb
+C:\Users\Bjorn\Dropbox\Documents\FinalProject\Bjorns Copy\MusicTracker\bin\Debug\MusicTracker.exe.config
+C:\Users\Bjorn\Dropbox\Documents\FinalProject\Bjorns Copy\MusicTracker\obj\Debug\MusicTracker.exe
+C:\Users\Bjorn\Dropbox\Documents\FinalProject\Bjorns Copy\MusicTracker\obj\Debug\MusicTracker.pdb
+C:\Users\Bjorn\Dropbox\Documents\FinalProject\Bjorns Copy\MusicTracker\bin\Debug\MusicTracker.exe
+C:\Users\Bjorn\Dropbox\Documents\FinalProject\Bjorns Copy\MusicTracker\bin\Debug\MusicTracker.pdb
+C:\Users\Bjorn\Dropbox\Documents\FinalProject\Bjorns Copy\MusicTracker\obj\Debug\MusicTracker.csprojResolveAssemblyReference.cache
+C:\Users\Bjorn\Dropbox\Documents\FinalProject\Bjorns Copy\MusicTracker\obj\Debug\MusicTracker.Properties.Resources.resources
+C:\Users\Bjorn\Dropbox\Documents\FinalProject\Bjorns Copy\MusicTracker\obj\Debug\MusicTracker.csproj.GenerateResource.Cache
+C:\Users\Bjorn\Dropbox\Documents\FinalProject\Bjorns Copy\MusicTracker\obj\Debug\MusicTracker.View.resources
+C:\Users\Andrew\Desktop\Bjorns Copy\Bjorns Copy\MusicTracker\bin\Debug\MusicTracker.exe.config
+C:\Users\Andrew\Desktop\Bjorns Copy\Bjorns Copy\MusicTracker\obj\Debug\MusicTracker.exe
+C:\Users\Andrew\Desktop\Bjorns Copy\Bjorns Copy\MusicTracker\obj\Debug\MusicTracker.pdb
+C:\Users\Andrew\Desktop\Bjorns Copy\Bjorns Copy\MusicTracker\bin\Debug\MusicTracker.exe
+C:\Users\Andrew\Desktop\Bjorns Copy\Bjorns Copy\MusicTracker\bin\Debug\MusicTracker.pdb
+C:\Users\Andrew\Desktop\Bjorns Copy\Bjorns Copy\MusicTracker\obj\Debug\MusicTracker.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\Bjorns Copy\Bjorns Copy\MusicTracker\obj\Debug\MusicTracker.View.resources
+C:\Users\Andrew\Desktop\Bjorns Copy\Bjorns Copy\MusicTracker\obj\Debug\MusicTracker.Properties.Resources.resources
+C:\Users\Andrew\Desktop\Bjorns Copy\Bjorns Copy\MusicTracker\obj\Debug\MusicTracker.csproj.GenerateResource.Cache
+C:\Users\Matt\Dropbox\FinalProject\Matt's new Copy\MusicTracker\bin\Debug\MusicTracker.exe.config
+C:\Users\Matt\Dropbox\FinalProject\Matt's new Copy\MusicTracker\obj\Debug\MusicTracker.exe
+C:\Users\Matt\Dropbox\FinalProject\Matt's new Copy\MusicTracker\obj\Debug\MusicTracker.pdb
+C:\Users\Matt\Dropbox\FinalProject\Matt's new Copy\MusicTracker\bin\Debug\MusicTracker.exe
+C:\Users\Matt\Dropbox\FinalProject\Matt's new Copy\MusicTracker\bin\Debug\MusicTracker.pdb
+C:\Users\Matt\Dropbox\FinalProject\Matt's new Copy\MusicTracker\obj\Debug\MusicTracker.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Dropbox\FinalProject\Matt's new Copy\MusicTracker\obj\Debug\MusicTracker.View.resources
+C:\Users\Matt\Dropbox\FinalProject\Matt's new Copy\MusicTracker\obj\Debug\MusicTracker.Properties.Resources.resources
+C:\Users\Matt\Dropbox\FinalProject\Matt's new Copy\MusicTracker\obj\Debug\MusicTracker.csproj.GenerateResource.Cache
+C:\Users\Bjorn\Dropbox\Documents\FinalProject\Matt's new Copy\MusicTracker\bin\Debug\MusicTracker.exe.config
+C:\Users\Bjorn\Dropbox\Documents\FinalProject\Matt's new Copy\MusicTracker\obj\Debug\MusicTracker.exe
+C:\Users\Bjorn\Dropbox\Documents\FinalProject\Matt's new Copy\MusicTracker\obj\Debug\MusicTracker.pdb
+C:\Users\Bjorn\Dropbox\Documents\FinalProject\Matt's new Copy\MusicTracker\bin\Debug\MusicTracker.exe
+C:\Users\Bjorn\Dropbox\Documents\FinalProject\Matt's new Copy\MusicTracker\bin\Debug\MusicTracker.pdb
+C:\Users\Bjorn\Dropbox\Documents\FinalProject\Matt's new Copy\MusicTracker\obj\Debug\MusicTracker.csprojResolveAssemblyReference.cache
+C:\Users\Bjorn\Dropbox\Documents\FinalProject\Matt's new Copy\MusicTracker\obj\Debug\MusicTracker.View.resources
+C:\Users\Bjorn\Dropbox\Documents\FinalProject\Matt's new Copy\MusicTracker\obj\Debug\MusicTracker.Properties.Resources.resources
+C:\Users\Bjorn\Dropbox\Documents\FinalProject\Matt's new Copy\MusicTracker\obj\Debug\MusicTracker.csproj.GenerateResource.Cache
+C:\Users\Andrew\Downloads\Matt's new Copy\Matt's new Copy\MusicTracker\bin\Debug\MusicTracker.exe.config
+C:\Users\Andrew\Downloads\Matt's new Copy\Matt's new Copy\MusicTracker\obj\Debug\MusicTracker.exe
+C:\Users\Andrew\Downloads\Matt's new Copy\Matt's new Copy\MusicTracker\obj\Debug\MusicTracker.pdb
+C:\Users\Andrew\Downloads\Matt's new Copy\Matt's new Copy\MusicTracker\bin\Debug\MusicTracker.exe
+C:\Users\Andrew\Downloads\Matt's new Copy\Matt's new Copy\MusicTracker\bin\Debug\MusicTracker.pdb
+C:\Users\Andrew\Downloads\Matt's new Copy\Matt's new Copy\MusicTracker\obj\Debug\MusicTracker.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Downloads\Matt's new Copy\Matt's new Copy\MusicTracker\obj\Debug\MusicTracker.View.resources
+C:\Users\Andrew\Downloads\Matt's new Copy\Matt's new Copy\MusicTracker\obj\Debug\MusicTracker.Properties.Resources.resources
+C:\Users\Andrew\Downloads\Matt's new Copy\Matt's new Copy\MusicTracker\obj\Debug\MusicTracker.csproj.GenerateResource.Cache
+C:\Users\Andrew\Downloads\Matt's new Copy\Matt's new Copy\MusicTracker\bin\Debug\NAudio.dll
+C:\Users\Andrew\Downloads\Matt's new Copy\Matt's new Copy\MusicTracker\bin\Debug\NAudio.xml
+C:\Users\Bjorn\Dropbox\Documents\FinalProject\MasterCode\MusicTracker\bin\Debug\MusicTracker.exe.config
+C:\Users\Bjorn\Dropbox\Documents\FinalProject\MasterCode\MusicTracker\obj\Debug\MusicTracker.exe
+C:\Users\Bjorn\Dropbox\Documents\FinalProject\MasterCode\MusicTracker\obj\Debug\MusicTracker.pdb
+C:\Users\Bjorn\Dropbox\Documents\FinalProject\MasterCode\MusicTracker\bin\Debug\MusicTracker.exe
+C:\Users\Bjorn\Dropbox\Documents\FinalProject\MasterCode\MusicTracker\bin\Debug\MusicTracker.pdb
+C:\Users\Bjorn\Dropbox\Documents\FinalProject\MasterCode\MusicTracker\bin\Debug\NAudio.dll
+C:\Users\Bjorn\Dropbox\Documents\FinalProject\MasterCode\MusicTracker\bin\Debug\NAudio.xml
+C:\Users\Bjorn\Dropbox\Documents\FinalProject\MasterCode\MusicTracker\obj\Debug\MusicTracker.csprojResolveAssemblyReference.cache
+C:\Users\Bjorn\Dropbox\Documents\FinalProject\MasterCode\MusicTracker\obj\Debug\MusicTracker.View.resources
+C:\Users\Bjorn\Dropbox\Documents\FinalProject\MasterCode\MusicTracker\obj\Debug\MusicTracker.Properties.Resources.resources
+C:\Users\Bjorn\Dropbox\Documents\FinalProject\MasterCode\MusicTracker\obj\Debug\MusicTracker.csproj.GenerateResource.Cache
+C:\Users\Matt\Desktop\MasterCode\MusicTracker\bin\Debug\MusicTracker.exe.config
+C:\Users\Matt\Desktop\MasterCode\MusicTracker\obj\Debug\MusicTracker.exe
+C:\Users\Matt\Desktop\MasterCode\MusicTracker\obj\Debug\MusicTracker.pdb
+C:\Users\Matt\Desktop\MasterCode\MusicTracker\bin\Debug\MusicTracker.exe
+C:\Users\Matt\Desktop\MasterCode\MusicTracker\bin\Debug\MusicTracker.pdb
+C:\Users\Matt\Desktop\MasterCode\MusicTracker\bin\Debug\NAudio.dll
+C:\Users\Matt\Desktop\MasterCode\MusicTracker\bin\Debug\NAudio.xml
+C:\Users\Matt\Desktop\MasterCode\MusicTracker\obj\Debug\MusicTracker.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\MasterCode\MusicTracker\obj\Debug\MusicTracker.View.resources
+C:\Users\Matt\Desktop\MasterCode\MusicTracker\obj\Debug\MusicTracker.Properties.Resources.resources
+C:\Users\Matt\Desktop\MasterCode\MusicTracker\obj\Debug\MusicTracker.csproj.GenerateResource.Cache
+C:\Users\andyg\Desktop\musictracker\musictracker\MusicTracker\bin\Debug\MusicTracker.exe.config
+C:\Users\andyg\Desktop\musictracker\musictracker\MusicTracker\bin\Debug\MusicTracker.exe
+C:\Users\andyg\Desktop\musictracker\musictracker\MusicTracker\bin\Debug\MusicTracker.pdb
+C:\Users\andyg\Desktop\musictracker\musictracker\MusicTracker\bin\Debug\NAudio.dll
+C:\Users\andyg\Desktop\musictracker\musictracker\MusicTracker\bin\Debug\NAudio.xml
+C:\Users\andyg\Desktop\musictracker\musictracker\MusicTracker\obj\Debug\MusicTracker.csprojResolveAssemblyReference.cache
+C:\Users\andyg\Desktop\musictracker\musictracker\MusicTracker\obj\Debug\MusicTracker.View.resources
+C:\Users\andyg\Desktop\musictracker\musictracker\MusicTracker\obj\Debug\MusicTracker.Properties.Resources.resources
+C:\Users\andyg\Desktop\musictracker\musictracker\MusicTracker\obj\Debug\MusicTracker.csproj.GenerateResource.Cache
+C:\Users\andyg\Desktop\musictracker\musictracker\MusicTracker\obj\Debug\MusicTracker.csproj.CoreCompileInputs.cache
+C:\Users\andyg\Desktop\musictracker\musictracker\MusicTracker\obj\Debug\MusicTracker.exe
+C:\Users\andyg\Desktop\musictracker\musictracker\MusicTracker\obj\Debug\MusicTracker.pdb
