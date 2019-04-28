@@ -36,7 +36,7 @@ namespace MusicTracker
             get { return SAMPLE_FREQUENCY; }
         }
         
-        public float Audio_Length_Sec //changed
+        public float Audio_Length_Sec
         {
             get { return AudioLengthInSeconds; }
             set { AudioLengthInSeconds = value; }

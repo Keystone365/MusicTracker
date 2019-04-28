@@ -6,7 +6,8 @@ Course:				CSCI 220 Programming Languages
 Date Completed:		11/20/2015
 
 
-DESCRIPTION: 
+DESCRIPTION: This is a music tracker program in C#. It serves as a simple program for 
+creating custom WAV music files using NAudio 1.7.3., a open source audio library created by Mark Heath
 
 ########################################################################################*/
 
@@ -28,7 +29,6 @@ namespace MusicTracker
     class Control
     {
         
-
         static Audio myAudio = new Audio();
         private Model myModel = new Model(); // creates the model object type
         public KeyBoardListener musicKeyListener = new KeyBoardListener();// translates edit mode commands
@@ -39,8 +39,6 @@ namespace MusicTracker
         public string sBPM = "120";
         public string sPreviousNote1 = "A-30100";
         public string sPreviousNote2 = "A-30100";
-        
-
 
         /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
            Function:	
@@ -53,8 +51,6 @@ namespace MusicTracker
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new View());
             // Application.set .SetApartmentState(ApartmentState.STA);
-
-            
         }
 
         
@@ -378,8 +374,6 @@ namespace MusicTracker
         public void CreateDialog()
         {
             //String paths
-            
-
             string sFileName;
 
             SaveFileDialog saveFileDialog1 = new SaveFileDialog();
@@ -450,8 +444,6 @@ namespace MusicTracker
         public void LoadTextDialog(List<string> lines)
         {
             //String paths
-
-
             string sFileName = "data.txt";
 
             OpenFileDialog openFileDialog1 = new OpenFileDialog();
@@ -483,39 +475,12 @@ namespace MusicTracker
                                 lines.Add(sr.ReadLine());
                         }
                     }
-
                 }
 
             }));
             thread.SetApartmentState(ApartmentState.STA);
             thread.Start();
-
             string filePath = sFileName;
-
-            
-            
-
-
-            //List<string> fileLines = new List<string>();
-
-            //try
-            //{
-            //    using (var reader = new StreamReader(sFileName))
-            //    {
-            //        string line;
-            //        while ((line = reader.ReadLine()) != null)
-            //        {
-            //            fileLines.Add(line);
-            //        }
-            //    }
-            //}
-            //catch (Exception ex)
-            //{
-
-            //}
-
-
-            //return fileLines;
 
         }
 

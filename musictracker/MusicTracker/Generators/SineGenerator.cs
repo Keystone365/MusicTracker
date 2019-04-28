@@ -19,17 +19,6 @@ namespace MusicTracker.Generators
 
         public short[] Data { get { return _dataBuffer; } }
 
-        /*public SineGenerator(double frequency,
-            UInt32 sampleRate, UInt16 secondsInLength, string sBPM)
-        {
-            _frequency = frequency;
-            _sampleRate = sampleRate;
-            _secondsInLength = secondsInLength;
-            AMPLITUDE_VALUE = myModel.Amplitude;
-            _sBPM = sBPM;
-            GenerateData();
-        }*/
-
         //Overloaded constructor for amplitude
         public SineGenerator(double frequency,
     UInt32 sampleRate, UInt16 secondsInLength, int myAmplitude, string sBPM)
